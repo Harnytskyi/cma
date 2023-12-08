@@ -37,7 +37,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://harnytskyi.github.io/cma",
+  "homepage": "https://github.com/harnytskyi/cma",
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
